@@ -4,9 +4,9 @@
     --secondary-color:#F22361;
     --light-color: #333333;
     --grey-color: #636363;
-    --background-color:#097030;
+    --background-color:#c2c2c2;
     --img-background-color: #373737;
-    --light-background:#ee31ee;
+    --light-background:#9c1b21;
     /* --light-background:#2e2f2f; */
 }
 /* common */
@@ -673,7 +673,7 @@ tr:nth-child(even) {
     position: fixed;
 }
 .ad-banner{
-    background: url(assets/images/banner/ban-2.png) no-repeat;
+    background: url(assets/images/banner/ile1_5f0308cb55.jpg) no-repeat;
     background-size: 100%;
     width: 100%;
 }
@@ -2931,7 +2931,7 @@ div#add-comment {
         font-size: 11px;
     }
     .ad-banner{
-        background: url(assets/images/banner/ban-3.png) no-repeat;
+        background: url(assets/images/banner/ile1_5f0308cb55.jpg) no-repeat;
         background-size: 164%;
         width: 100%;
     }
