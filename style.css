@@ -2141,6 +2141,12 @@ div#add-comment {
 /* .common */
 /* media */
 @media(max-width:1440px){
+
+    #logo img {
+        /* margin: auto; */
+        /* width: auto; */
+        max-width: 32%;
+    }
     .banner1 {
         position: relative;
         right: 107px;
@@ -2243,6 +2249,12 @@ div#add-comment {
    }
 }
 @media(max-width:991px){
+
+    #logo img {
+        /* margin: auto; */
+        /* width: auto; */
+        max-width: 32%;
+    }
     header{
         height: 78px;
     }
